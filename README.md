@@ -7,6 +7,7 @@ elixirs.
 ➢ Engage in challenging puzzles and quests to unlock new recipes and ingredients.
 ➢ Enjoy a whimsical narrative that unfolds as you progress through the game, filled with intriguing
 lore.
+
 Start Game
 ![g1](https://github.com/manasvinaik/Magical-Brews/assets/140634573/8c6e9a96-7dc0-49f9-9341-85b7bac81348)
 Main Game Screen
