@@ -1,10 +1,14 @@
 Magical Brews
 An enchanting potion-making adventure game designed to enhance creativity with nostalgic 90's vibes,
 blending modern technology with retro charm.
+
 ➢ Immerse yourself in a magical world with captivating visuals and soothing music.
+
 ➢ Craft potions using a drag-and-drop interface, combining mystical ingredients to create powerful
 elixirs.
+
 ➢ Engage in challenging puzzles and quests to unlock new recipes and ingredients.
+
 ➢ Enjoy a whimsical narrative that unfolds as you progress through the game, filled with intriguing
 lore.
 
