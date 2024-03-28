@@ -1,4 +1,4 @@
-Magical Brews
+# Magical Brews
 An enchanting potion-making adventure game designed to enhance creativity with nostalgic 90's vibes,
 blending modern technology with retro charm.
 
